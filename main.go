@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"git.garena.com/russell.chanxl/dinner/cli"
-	"git.garena.com/russell.chanxl/dinner/http_"
-	"git.garena.com/russell.chanxl/dinner/utils"
+	"github.com/russellcxl/dinner-booker/cli"
+	"github.com/russellcxl/dinner-booker/http_"
+	"github.com/russellcxl/dinner-booker/utils"
 	"log"
 )
 
